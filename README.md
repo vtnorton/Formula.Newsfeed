@@ -1,4 +1,4 @@
-﻿# 📰 The project (Formula.Newsfeed)
+﻿# 🚀 The project (Formula.Newsfeed)
 This project is used for users on the app [Formula - Universal Code Editor](https://www.microsoft.com/en-us/p/formula-universal-code-editor/9nblggh4wb6b) (version > 4) to view its the blog posts from one category of the blog (WordPress).
 
 
