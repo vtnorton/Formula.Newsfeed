@@ -1,5 +1,7 @@
 ﻿# 🚀 The project (Formula.Newsfeed)
-This project is used for users on the app [Formula - Universal Code Editor](https://www.microsoft.com/en-us/p/formula-universal-code-editor/9nblggh4wb6b) (version > 4) to view its the blog posts from one category of the blog (WordPress).
+With this project you can get a RSS feed into a object callend by a REST API.
+
+USAGE: This project is used for users on the app [Formula - Universal Code Editor](https://www.microsoft.com/en-us/p/formula-universal-code-editor/9nblggh4wb6b) (version > 4) to view its the blog posts from one category of the blog (WordPress).
 
 
 ## 👨🏻‍💻 How to run it
